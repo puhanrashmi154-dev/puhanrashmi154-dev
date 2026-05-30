@@ -5,7 +5,7 @@
 
 ### Cybersecurity Enthusiast • BTech CSE Student • Future Security Engineer
 
-<img src="YOUR_BANNER_LINK_HERE" width="100%" />
+<img src="sonu.png" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Linux+Learner;CTF+Player;Building+My+Skills+Every+Day" />
 
