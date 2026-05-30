@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rashmi Ranjan Puhan</h1>
 
-<!--
-**puhanrashmi154-dev/puhanrashmi154-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cybersecurity Enthusiast | BTech CSE Student</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BTech Computer Science Student
+- 🔐 Learning Cybersecurity
+- 🌱 Currently learning Python, Linux & Networking
+- 🎯 Goal: Become a Cybersecurity Engineer
+
+## 🛠 Skills
+
+Python • Git • Linux • HTML • CSS
+
+## 📚 Currently Learning
+
+- Ethical Hacking
+- Network Security
+- Web Security
+- CTF Challenges
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=puhanrashmi154-dev&show_icons=true)
