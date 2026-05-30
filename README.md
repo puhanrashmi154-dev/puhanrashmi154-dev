@@ -1,27 +1,62 @@
-<h1 align="center">Hi 👋, I'm Rashmi Ranjan Puhan</h1>
 
-<h3 align="center">Cybersecurity Enthusiast | BTech CSE Student</h3>
+<div align="center">
+
+# 🔐 Rashmi Ranjan Puhan
+
+### Cybersecurity Enthusiast • BTech CSE Student • Future Security Engineer
+
+<img src="YOUR_BANNER_LINK_HERE" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Linux+Learner;CTF+Player;Building+My+Skills+Every+Day" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Terminal
 
-- 🎓 BTech Computer Science Student
-- 🔐 Learning Cybersecurity
-- 🌱 Currently learning Python, Linux & Networking
-- 🎯 Goal: Become a Cybersecurity Engineer
+```bash
+$ whoami
+Rashmi Ranjan Puhan
 
-## 🛠 Skills
+$ role
+Cybersecurity Enthusiast
 
-Python • Git • Linux • HTML • CSS
+$ education
+BTech Computer Science
 
-## 📚 Currently Learning
+$ current_focus
+Python
+Linux
+Networking
+Web Security
 
-- Ethical Hacking
-- Network Security
-- Web Security
-- CTF Challenges
+$ goal
+Cybersecurity Engineer
+```
 
-## 📈 GitHub Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=puhanrashmi154-dev&show_icons=true)
+## 🚀 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,git,github,linux,vscode,html,css" />
+</p>
+
+
+
+
+---
+
+## 📈 Visitor Counter
+
+![](https://komarev.com/ghpvc/?username=puhanrashmi154-dev&label=Profile+Views)
+
+---
+
+<div align="center">
+
+### ⚡ Learning • Building • Breaking • Fixing • Securing
+
+</div>
+
